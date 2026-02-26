@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+  # Salut, je suis [Ton Nom] 👋                                                                                                                   
+                                                                                                                                                  
+  ## À propos de moi                                                                                                                              
+  - 🔭 Je travaille actuellement sur ...                                                                                                          
+  - 🌱 J'apprends ...                                                                                                                             
+  - 💬 Demande-moi des conseils sur ...                                                                                                           
+                                                                                                                                                  
+  ## Technologies                                                                                                                                 
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)                                                      
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)                                       
+                                                                                                                                                  
+  ## Stats GitHub                                                                                                                                 
+  ![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)                                        
+                                                                                                                                                  
+  ## Me contacter                                                                                                                                 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ton-profil) 
+
 <!--
 **Charys245/Charys245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
