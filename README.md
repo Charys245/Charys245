@@ -1,6 +1,6 @@
                                                                                                                                    
 <h1 align="center">Hey👋, I'm Charmel Tobou</h1>
-<h4 align="center">**Software Engineer** specializing in the MERN stack. I build fast, accessible, and visually polished web experiences.</h4>
+<h4 align="center"> Software Engineer specializing in the MERN stack. I build fast, accessible, and visually polished web experiences.</h4>
                                                                                                                                             
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://charys-portfolio.vercel.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/charmel-tobou)
                                                                                                                                            
